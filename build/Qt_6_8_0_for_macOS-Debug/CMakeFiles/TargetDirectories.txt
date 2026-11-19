@@ -1,0 +1,9 @@
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/pg2_p2.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/pg2_p2_autogen_timestamp_deps.dir
+/Users/nurso/pg2_p2/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/pg2_p2_autogen.dir
